@@ -1,0 +1,6 @@
+framework module Pods_MVWhiteboardTests {
+  umbrella header "Pods-MVWhiteboardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
